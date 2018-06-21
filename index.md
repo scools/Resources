@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/scools/Resources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### [Data Science Office Hours from UW eScience Institute](http://escience.washington.edu/office-hours/#eScienceDataScientists)
+eScience encourages questions from any area of computing in science, but tend to focus on data management, predictive analytics, and visualization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+#### [Tutorials and Bootcamps from UW eScience Institute](http://escience.washington.edu/education/tutorials-and-bootcamps/)
+Bootcamps include Hackathons, Scientific Computing in Python, Community Data Science Workshop and Software Carpentry
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
+#### [Impact of Social Sciences Blog](http://blogs.lse.ac.uk/impactofsocialsciences/)
+[Recent Blog Post](http://blogs.lse.ac.uk/impactofsocialsciences/2018/06/14/journal-data-sharing-policies-are-moving-the-scientific-community-towards-greater-openness-but-clearly-more-work-remains/) | Journal data sharing policies are moving the scientific community towards greater openness. This blog is a good one overall for research communication and has some thoughtful pieces and resources.
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+### Local Organizations	
 
-1. Numbered
-2. List
+* Schools Out Washington Resources | [LINK ](https://www.schoolsoutwashington.org/pages/quality-training)			
+* Best Starts for Kids | [LINK ](http://kingcounty.gov/depts/community-human-services/initiatives/best-starts-for-kids.aspx )			
+* Road Map Project Reports | [LINK ](http://www.roadmapproject.org/data-center/reports/)			
+* Youth Development Resource Center | [LINK ](https://ydekc.org/resource-center/)			
+* Western WA K-12 Tableau Users Group (TUG)	|	[LINK ](	https://community.tableau.com/groups/western-washington-k-12	)			
+* WA STEM Resource Center | [LINK ](http://www.washingtonstem.org/Resource-Hub/STEM-Education-Research/?Sort=Date#.Wout9ainHIU)			
 
-**Bold** and _Italic_ and `Code` text
+***
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scools/Resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Local Policies
+				
+* WA HB 2224: Graduation Alternatives Assessment Bill | [LINK ]( http://www.k12.wa.us/Communications/PressReleases2017/PathwaysAssessmentBill.aspx)| [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=2224&Year=2017v)
+* WA HB 1541: Opportunity Gap Bill  | [LINK ](	http://educationvoters.org/2016/06/02/summary-of-opportunity-gap-house-bill-1541/ )| [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2015	)
+* Every Student Succeeds Act (ESSA) | [LINK ]( http://www.k12.wa.us/esea/essa/default.aspx)				
+* College Academic Distribution Requirements | [LINK ](	http://www.wsac.wa.gov/sites/default/files/2015.CADRs.Appendix.pdf	)| [WSAC](http://www.wsac.wa.gov/college-admissions)
