@@ -1,3 +1,10 @@
+<p align="center">
+ <a href="https://scools.github.io/Home/">Home</a>  |
+ <a href="https://scools.github.io/Updates/">Updates</a>  |
+ <a href="https://scools.github.io/Resources/">Resources</a>  |
+ <a href="https://github.com/scools/Research-Network/projects/2">Projects and Discussions</a>
+<br><br>
+</p>
 
 #### [Data Science Office Hours from UW eScience Institute](http://escience.washington.edu/office-hours/#eScienceDataScientists)
 eScience encourages questions from any area of computing in science, but tend to focus on data management, predictive analytics, and visualization.
