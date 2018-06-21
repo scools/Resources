@@ -14,7 +14,7 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 
 ***
 
-### Local Organizations	
+#### Local Organizations	
 
 * Schools Out Washington Resources | [LINK ](https://www.schoolsoutwashington.org/pages/quality-training)			
 * Best Starts for Kids | [LINK ](http://kingcounty.gov/depts/community-human-services/initiatives/best-starts-for-kids.aspx )			
@@ -25,7 +25,7 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 
 ***
 
-### Local Policies
+#### Local Policies
 				
 * WA HB 2224: Graduation Alternatives Assessment Bill | [LINK ]( http://www.k12.wa.us/Communications/PressReleases2017/PathwaysAssessmentBill.aspx)| [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=2224&Year=2017v)
 * WA HB 1541: Opportunity Gap Bill  | [LINK ](	http://educationvoters.org/2016/06/02/summary-of-opportunity-gap-house-bill-1541/ )| [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2015	)
