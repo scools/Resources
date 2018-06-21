@@ -17,7 +17,7 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 ***
 
 #### [Impact of Social Sciences Blog](http://blogs.lse.ac.uk/impactofsocialsciences/)
-[Recent Blog Post](http://blogs.lse.ac.uk/impactofsocialsciences/2018/06/14/journal-data-sharing-policies-are-moving-the-scientific-community-towards-greater-openness-but-clearly-more-work-remains/) | Journal data sharing policies are moving the scientific community towards greater openness. This blog is a good one overall for research communication and has some thoughtful pieces and resources.
+[Recent Blog Post](http://blogs.lse.ac.uk/impactofsocialsciences/2018/06/14/journal-data-sharing-policies-are-moving-the-scientific-community-towards-greater-openness-but-clearly-more-work-remains/) | *Journal data sharing policies are moving the scientific community towards greater openness*. This blog is a good one overall for research communication and has some thoughtful pieces and resources.
 
 ***
 
