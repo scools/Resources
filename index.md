@@ -6,6 +6,11 @@
 <br><br>
 </p>
 
+#### [Racial Equity in Reporting from Anne E. Casey Foundation](http://www.racialequitytools.org/resourcefiles/morerace.pdf)
+This framework and [action guide](http://www.aecf.org/resources/race-equity-and-inclusion-action-guide/) focus on creating data products that intentionally speak to the circumstances children experience, highlighting systems rather than problematizing youth. Both offer language to describe racial inequities as factors that shape opportunities, and view data reports as tools to identify how to remove barriers to opportunity.
+
+***
+
 #### [Data Science Office Hours from UW eScience Institute](http://escience.washington.edu/office-hours/#eScienceDataScientists)
 eScience encourages questions from any area of computing in science, but tend to focus on data management, predictive analytics, and visualization.
 
@@ -18,11 +23,6 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 
 #### [Impact of Social Sciences Blog](http://blogs.lse.ac.uk/impactofsocialsciences/)
 [Recent Blog Post](http://blogs.lse.ac.uk/impactofsocialsciences/2018/06/14/journal-data-sharing-policies-are-moving-the-scientific-community-towards-greater-openness-but-clearly-more-work-remains/) | *Journal data sharing policies are moving the scientific community towards greater openness*. This blog is a good one overall for research communication and has some thoughtful pieces and resources.
-
-***
-
-#### [Racial Equity in Reporting from Anne E. Casey Foundation](http://www.racialequitytools.org/resourcefiles/morerace.pdf)
-This framework and [action guide](http://www.aecf.org/resources/race-equity-and-inclusion-action-guide/) focus on creating data products that intentionally speak to the circumstances children experience, highlighting systems rather than problematizing youth. Both offer language to describe racial inequities as factors that shape opportunities, and view data reports as tools to identify how to remove barriers to opportunity.
 
 ***
 
