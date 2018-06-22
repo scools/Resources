@@ -1,8 +1,8 @@
 <p align="center">
- <a href="https://scools.github.io/Home/">Home</a>  |
- <a href="https://scools.github.io/Updates/">Updates</a>  |
- <a href="https://scools.github.io/Resources/">Resources</a>  |
- <a href="https://scools.github.io/Meetings/">Meetings</a>
+ <a href="https://scools.github.io/Home/">H o m e</a>  |
+ <a href="https://scools.github.io/Updates/">U p d a t e s</a>  |
+ <a href="https://scools.github.io/Resources/">R e s o u r c e s</a>  |
+ <a href="https://scools.github.io/Meetings/">M e e t i n g s</a>
 <br><br>
 </p>
 
