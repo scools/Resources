@@ -40,4 +40,4 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 * WA HB 2224: Graduation Alternatives Assessment Bill  [LINK](http://www.k12.wa.us/Communications/PressReleases2017/PathwaysAssessmentBill.aspx) | [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=2224&Year=2017v)
 * WA HB 1541: Opportunity Gap Bill  [LINK](http://educationvoters.org/2016/06/02/summary-of-opportunity-gap-house-bill-1541/ ) | [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2015)
 * Every Student Succeeds Act (ESSA)  [LINK](http://www.k12.wa.us/esea/essa/default.aspx)				
-* College Academic Distribution Requirements  [LINK](http://www.wsac.wa.gov/sites/default/files/2015.CADRs.Appendix.pdf)  [WSAC](http://www.wsac.wa.gov/college-admissions)
+* College Academic Distribution Requirements  [LINK](http://www.wsac.wa.gov/sites/default/files/2015.CADRs.Appendix.pdf) | [WSAC](http://www.wsac.wa.gov/college-admissions)
