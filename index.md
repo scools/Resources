@@ -27,17 +27,17 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 ***
 
 #### Local Organizations	
-* Schools Out Washington Resources [LINK](https://www.schoolsoutwashington.org/pages/quality-training)			
-* Best Starts for Kids [LINK](http://kingcounty.gov/depts/community-human-services/initiatives/best-starts-for-kids.aspx )		
-* Road Map Project Reports [LINK](http://www.roadmapproject.org/data-center/reports/)			
-* Youth Development Resource Center [LINK](https://ydekc.org/resource-center/)			
-* Western WA K-12 Tableau Users Group (TUG) [LINK](https://community.tableau.com/groups/western-washington-k-12)			
-* WA STEM Resource Center [LINK](http://www.washingtonstem.org/Resource-Hub/STEM-Education-Research/?Sort=Date#.Wout9ainHIU)		
+* Schools Out Washington Resources / [LINK](https://www.schoolsoutwashington.org/pages/quality-training)			
+* Best Starts for Kids / [LINK](http://kingcounty.gov/depts/community-human-services/initiatives/best-starts-for-kids.aspx )		
+* Road Map Project Reports / [LINK](http://www.roadmapproject.org/data-center/reports/)			
+* Youth Development Resource Center / [LINK](https://ydekc.org/resource-center/)			
+* Western WA K-12 Tableau Users Group (TUG) / [LINK](https://community.tableau.com/groups/western-washington-k-12)			
+* WA STEM Resource Center / [LINK](http://www.washingtonstem.org/Resource-Hub/STEM-Education-Research/?Sort=Date#.Wout9ainHIU)		
 
 ***
 
 #### Local Policies				
-* WA HB 2224: Graduation Alternatives Assessment Bill  [LINK](http://www.k12.wa.us/Communications/PressReleases2017/PathwaysAssessmentBill.aspx) | [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=2224&Year=2017v)
-* WA HB 1541: Opportunity Gap Bill  [LINK](http://educationvoters.org/2016/06/02/summary-of-opportunity-gap-house-bill-1541/ ) / [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2015)
-* Every Student Succeeds Act (ESSA)  [LINK](http://www.k12.wa.us/esea/essa/default.aspx)				
-* College Academic Distribution Requirements  [LINK](http://www.wsac.wa.gov/sites/default/files/2015.CADRs.Appendix.pdf) | [WSAC](http://www.wsac.wa.gov/college-admissions)
+* WA HB 2224: Graduation Alternatives Assessment Bill / [LINK](http://www.k12.wa.us/Communications/PressReleases2017/PathwaysAssessmentBill.aspx) / [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=2224&Year=2017v)
+* WA HB 1541: Opportunity Gap Bill / [LINK](http://educationvoters.org/2016/06/02/summary-of-opportunity-gap-house-bill-1541/ ) / [BILL](	http://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2015)
+* Every Student Succeeds Act (ESSA) / [LINK](http://www.k12.wa.us/esea/essa/default.aspx)				
+* College Academic Distribution Requirements  [LINK](http://www.wsac.wa.gov/sites/default/files/2015.CADRs.Appendix.pdf) / [WSAC](http://www.wsac.wa.gov/college-admissions)
