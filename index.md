@@ -7,10 +7,7 @@
 </p>
 
 #### [US Census Data Tools](https://www.census.gov/data/data-tools.html)
-* [R "TidyCensus" Package](https://walkerke.github.io/tidycensus/)
-* [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description)
-* [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306)
-* [Social Explorer](https://www.socialexplorer.com/)
+The [R "TidyCensus"](https://walkerke.github.io/tidycensus/) package interfaces R to several census apis. Visit [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description) for summary statistics and GIS files for U.S. censuses and other nationwide surveys from 1790 through the present and [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306). Or [Social Explorer](https://www.socialexplorer.com/) to visualize and explore national census data.
 
 ***
 
