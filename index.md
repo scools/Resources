@@ -6,7 +6,7 @@
 <br><br>
 </p>
 
-#### [US Census Data Tools]
+#### US Census Data Tools (https://www.census.gov/data/data-tools.html)
 * [R "TidyCensus" Package](https://walkerke.github.io/tidycensus/)
 * [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description)
 * [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306)
