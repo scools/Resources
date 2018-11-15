@@ -6,6 +6,14 @@
 <br><br>
 </p>
 
+#### [US Census Data Tools]
+* [R "TidyCensus" Package](https://walkerke.github.io/tidycensus/)
+* [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description)
+* [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306)
+* [Social Explorer](https://www.socialexplorer.com/)
+
+***
+
 #### [Racial Equity in Reporting from Anne E. Casey Foundation](http://www.racialequitytools.org/resourcefiles/morerace.pdf)
 This framework and [action guide](http://www.aecf.org/resources/race-equity-and-inclusion-action-guide/) focus on creating data products that intentionally speak to the circumstances children experience, highlighting systems rather than problematizing youth. Both offer language to describe racial inequities as factors that shape opportunities, and view data reports as tools to identify how to remove barriers to opportunity.
 
