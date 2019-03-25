@@ -74,4 +74,4 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 |	Society for the Teaching of Psychology	| [LINK](	http://www.teachpsych.org/	)|	Teaching of Psychology	|
 |	Society of Experimental Social Psychology	| [LINK](	http://www.sesp.org/	)|	Journal of Experimental Social Psychology	|
 |	Society on Educational Effectiveness	| [LINK](	https://www.sree.org/	)|	Journal of Research on Educational Effectiveness	|
-	Washington Educational Research Association 	| [LINK](	http://www.wera-web.org/	)|	WERA Educational Journal	|
+	Washington Educational Research Association 	| [LINK](	http://www.wera-web.org/	)|	WERA Educational Journal|
