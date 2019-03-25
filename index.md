@@ -52,7 +52,7 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 #### Local and National Associations
 
 |	Association	|	Link	|	Journals	|
-|	:---:	|	:---:	|	:---:	|
+| :---	|	:---:	|	:---	|
 |	American Education Research Association	| [LINK](	http://www.aera.net/	)|	AERA Open, American Educational Research Journal, Educational Evaluation and Policy Analysis, Journal of Educational and Behavioral Statistics etc.	|
 |	American Psychological Association	| [LINK](	http://www.apa.org	)|	Developmental Psychology,  Journal of Educational Psychology etc.	|
 |	Asian Association of Social Psychology	| [LINK](	http://www.asiansocialpsych.org/	)|	Asian Journal of Social Psychology	|
