@@ -49,29 +49,29 @@ Bootcamps include Hackathons, Scientific Computing in Python, Community Data Sci
 
 ***
 
-#### Local and National Associations		
+#### Local and National Associations
 
-ASSOCIATION	|	JOURNALS	|	LINK	|
-:---:	|	:---:	|	:---:	|
-American Education Research Association	|	AERA Open, American Educational Research Journal, Educational Evaluation and Policy Analysis, Journal of Educational and Behavioral Statistics etc.	| [LINK](	http://www.aera.net/	)|
-American Psychological Association	|	Developmental Psychology,  Journal of Educational Psychology etc.	| [LINK](	http://www.apa.org	)|
-Asian Association of Social Psychology	|	Asian Journal of Social Psychology	| [LINK](	http://www.asiansocialpsych.org/	)|
-Association for Psychological Science	|	Psychological Science, Advances in Methods and Practices in Psychological Science etc.	| [LINK](	http://www.psychologicalscience.org/	)|
-Association for Research in Personality	|	Journal of Research in Personality	| [LINK](	http://www.personality-arp.org/	)|
-Association of Black Psychologists	|	Journal of Black Psychology	| [LINK](	http://www.abpsi.org/	)|
-British Psychological Society Social Psychology Section	|	Social Psychological Review	| [LINK](	http://www.bps.org.uk/	)|
-European Association of Social Psychology	|	European Journal of Social Psychology, Social Psychological and Personality Science, etc.	| [LINK](	http://www.easp.eu/	)|
-International Association for Cross-Cultural Psychology	|	Journal of Cross-Cultural Psychology	| [LINK](	http://www.iaccp.org/	)|
-International Association for Relationship Research	|	Personal Relationships, Journal of Social and Personal Relationships etc.	| [LINK](	http://www.iarr.org/	)|
-International Association of Applied Psychology	|	Applied Psychology: An International Review and Applied Psychology: Health and Well Being	| [LINK](	http://www.iaapsy.org/	)|
-International Psychology: APA Division 52	|	Journal International Perspectives in Psychology	| [LINK](	http://www.div52.org/	)|
-Society for Community Research and Action	|	American Journal of Community Psychology and The Community Psychologist	| [LINK](	http://www.scra27.org/	)|
-Society for Personality and Social Psychology	|	Personality and Social Psychology Bulletin, Personality and Social Psychology Review and Social Psychological and Personality Science	| [LINK](	http://www.spsp.org/	)|
-Society for the Psychological Study of Ethnic Minority Issues	|	Cultural Diversity and Ethnic Minority Psychology	| [LINK](	http://www.division45.org/	)|
-Society for the Psychological Study of Social Issues	|	Journal of Social Issues, Analyses of Social Issues and Public Policy and Social Issues and Policy Review	| [LINK](	http://www.spssi.org/	)|
-Society for the Psychological Study of Social Issues	|	Journal of Social Issues, Analyses of Social Issues and Public Policy and Social Issues and Policy Review	| [LINK](	http://www.spssi.org/	)|
-Society for the Study of Peace, Conflict, and Violence	|	Peace and Conflict: The Journal of Peace Psychology	| [LINK](	http://www.peacepsych.org/	)|
-Society for the Teaching of Psychology	|	Teaching of Psychology	| [LINK](	http://www.teachpsych.org/	)|
-Society of Experimental Social Psychology	|	Journal of Experimental Social Psychology	| [LINK](	http://www.sesp.org/	)|
-Society on Educational Effectiveness	|	Journal of Research on Educational Effectiveness	| [LINK](	https://www.sree.org/	)|
-Washington Educational Research Association 	|	WERA Educational Journal	| [LINK](	http://www.wera-web.org/	)|
+|	Association	|	Link	|	Journals	|
+|	:---:	|	:---:	|	:---:	|
+|	American Education Research Association	| [LINK](	http://www.aera.net/	)|	AERA Open, American Educational Research Journal, Educational Evaluation and Policy Analysis, Journal of Educational and Behavioral Statistics etc.	|
+|	American Psychological Association	| [LINK](	http://www.apa.org	)|	Developmental Psychology,  Journal of Educational Psychology etc.	|
+|	Asian Association of Social Psychology	| [LINK](	http://www.asiansocialpsych.org/	)|	Asian Journal of Social Psychology	|
+|	Association for Psychological Science	| [LINK](	http://www.psychologicalscience.org/	)|	Psychological Science, Advances in Methods and Practices in Psychological Science etc.	|
+|	Association for Research in Personality	| [LINK](	http://www.personality-arp.org/	)|	Journal of Research in Personality	|
+|	Association of Black Psychologists	| [LINK](	http://www.abpsi.org/	)|	Journal of Black Psychology	|
+|	British Psychological Society Social Psychology Section	| [LINK](	http://www.bps.org.uk/	)|	Social Psychological Review	|
+|	European Association of Social Psychology	| [LINK](	http://www.easp.eu/	)|	European Journal of Social Psychology, Social Psychological and Personality Science, etc.	|
+|	International Association for Cross-Cultural Psychology	| [LINK](	http://www.iaccp.org/	)|	Journal of Cross-Cultural Psychology	|
+|	International Association for Relationship Research	| [LINK](	http://www.iarr.org/	)|	Personal Relationships, Journal of Social and Personal Relationships etc.	|
+|	International Association of Applied Psychology	| [LINK](	http://www.iaapsy.org/	)|	Applied Psychology: An International Review and Applied Psychology: Health and Well Being	|
+|	International Psychology: APA Division 52	| [LINK](	http://www.div52.org/	)|	Journal International Perspectives in Psychology	|
+|	Society for Community Research and Action	| [LINK](	http://www.scra27.org/	)|	American Journal of Community Psychology and The Community Psychologist	|
+|	Society for Personality and Social Psychology	| [LINK](	http://www.spsp.org/	)|	Personality and Social Psychology Bulletin, Personality and Social Psychology Review and Social Psychological and Personality Science	|
+|	Society for the Psychological Study of Ethnic Minority Issues	| [LINK](	http://www.division45.org/	)|	Cultural Diversity and Ethnic Minority Psychology	|
+|	Society for the Psychological Study of Social Issues	| [LINK](	http://www.spssi.org/	)|	Journal of Social Issues, Analyses of Social Issues and Public Policy and Social Issues and Policy Review	|
+|	Society for the Psychological Study of Social Issues	| [LINK](	http://www.spssi.org/	)|	Journal of Social Issues, Analyses of Social Issues and Public Policy and Social Issues and Policy Review	|
+|	Society for the Study of Peace, Conflict, and Violence	| [LINK](	http://www.peacepsych.org/	)|	Peace and Conflict: The Journal of Peace Psychology	|
+|	Society for the Teaching of Psychology	| [LINK](	http://www.teachpsych.org/	)|	Teaching of Psychology	|
+|	Society of Experimental Social Psychology	| [LINK](	http://www.sesp.org/	)|	Journal of Experimental Social Psychology	|
+|	Society on Educational Effectiveness	| [LINK](	https://www.sree.org/	)|	Journal of Research on Educational Effectiveness	|
+	Washington Educational Research Association 	| [LINK](	http://www.wera-web.org/	)|	WERA Educational Journal	|
