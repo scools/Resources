@@ -15,9 +15,18 @@ This new extention of Critical Race Theory (CRT) has a focus on education and vi
 The [R "TidyCensus"](https://walkerke.github.io/tidycensus/) package interfaces R to several census apis. Visit [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description) for summary statistics and GIS files for U.S. censuses and other nationwide surveys from 1790 through the present and [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306). [Social Explorer](https://www.socialexplorer.com/) provides interactive graphics for exploring national census data.
 
 ***
+####[Tableau Dashboard Courses](https://www.tableau.com/learn/series/dashboards?utm_campaign=2017049_EGCore_IHWEB_USCA_en-US_2019-05-14_T3-Dashboard-Series&utm_medium=Email&utm_source=Eloqua&domain=ccedresults.org&eid=CTBLS000018589347&elqTrackId=73c03a9144ca4a979114e5ef4a132975&elq=1af162b325cb4d60a02bc488e650e233&elqaid=37095&elqat=1&elqCampaignId=35654)
+Recent webinars on engaging users through design and creating charts for static presentations and printing.
+
+***
 
 #### [Racial Equity in Reporting from Anne E. Casey Foundation](http://www.racialequitytools.org/resourcefiles/morerace.pdf)
 This framework and [action guide](http://www.aecf.org/resources/race-equity-and-inclusion-action-guide/) focus on creating data products that intentionally speak to the circumstances children experience, highlighting systems rather than problematizing youth. Both offer language to describe racial inequities as factors that shape opportunities, and view data reports as tools to identify how to remove barriers to opportunity.
+
+***
+
+#### [Python Resources](https://www.tutorialspoint.com/python/index.htm)
+This free resource on [tutorialspoint.com](https://www.tutorialspoint.com/python/index.htm) reviews syntax basics in Python and includes advanced tutorials as well. [Google's Python Class](https://developers.google.com/edu/python/) is another useful resource that includes videos and exercises.
 
 ***
 
