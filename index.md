@@ -15,7 +15,7 @@ This new extention of Critical Race Theory (CRT) has a focus on education and vi
 The [R "TidyCensus"](https://walkerke.github.io/tidycensus/) package interfaces R to several census apis. Visit [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description) for summary statistics and GIS files for U.S. censuses and other nationwide surveys from 1790 through the present and [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306). [Social Explorer](https://www.socialexplorer.com/) provides interactive graphics for exploring national census data.
 
 ***
-####[Tableau Dashboard Courses](https://www.tableau.com/learn/series/dashboards?utm_campaign=2017049_EGCore_IHWEB_USCA_en-US_2019-05-14_T3-Dashboard-Series&utm_medium=Email&utm_source=Eloqua&domain=ccedresults.org&eid=CTBLS000018589347&elqTrackId=73c03a9144ca4a979114e5ef4a132975&elq=1af162b325cb4d60a02bc488e650e233&elqaid=37095&elqat=1&elqCampaignId=35654)
+#### [Tableau Dashboard Courses](https://www.tableau.com/learn/series/dashboards?utm_campaign=2017049_EGCore_IHWEB_USCA_en-US_2019-05-14_T3-Dashboard-Series&utm_medium=Email&utm_source=Eloqua&domain=ccedresults.org&eid=CTBLS000018589347&elqTrackId=73c03a9144ca4a979114e5ef4a132975&elq=1af162b325cb4d60a02bc488e650e233&elqaid=37095&elqat=1&elqCampaignId=35654)
 Recent webinars on engaging users through design and creating charts for static presentations and printing.
 
 ***
