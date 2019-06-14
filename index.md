@@ -6,6 +6,11 @@
 <br><br>
 </p>
 
+#### ['QuantCrit' Critical Race Theory Meets Quantitiave Research](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf)
+This new extention of Critical Race Theory (CRT) has a focus on education and views data collection and data analysis as socially constructed. It posits that statistics and data use exist within the larger racialized context that makes up the norm in America’s educational systems. However, QuantCrit highlights the value of quantitative methods and statistics use in advancing educational justice and proposes several empirical approaches in engaging in quantitative analyses under a critical lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf))
+
+***
+
 #### [US Census Data Tools](https://www.census.gov/data/data-tools.html)
 The [R "TidyCensus"](https://walkerke.github.io/tidycensus/) package interfaces R to several census apis. Visit [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/user-resources/project-description) for summary statistics and GIS files for U.S. censuses and other nationwide surveys from 1790 through the present and [IPUMS Data Finder](https://data2.nhgis.org/main?_ga=2.3894712.900773086.1542316306-33216597.1542316306). [Social Explorer](https://www.socialexplorer.com/) provides interactive graphics for exploring national census data.
 
