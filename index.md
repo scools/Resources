@@ -6,6 +6,11 @@
 <br><br>
 </p>
 
+#### [COVID-19 Family and School Resources for South Seattle and South King County](https://roadmapproject.org/road-map-project-covid-19-resources/)
+Supporting our communities through the COVID-19 crisis is vital. The Community Center for Education Results will regularly update this list of resources from our partners in the Road Map Project region. If you have resources you’d like us to share, please [contact us](communications@ccedresults.org).
+
+***
+
 #### ['QuantCrit' Critical Race Theory Meets Quantitiave Research](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf)
 This new extention of Critical Race Theory (CRT) has a focus on education and views data collection and data analysis as socially constructed. It posits that statistics and data use exist within the larger racialized context that makes up the norm in America’s educational systems. However, QuantCrit highlights the value of quantitative methods and statistics use in advancing educational justice and proposes several empirical approaches in engaging in quantitative analyses under a critical lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf))
 
