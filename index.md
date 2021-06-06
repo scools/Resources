@@ -12,8 +12,8 @@ Supporting our communities through the COVID-19 crisis is vital. The Community C
 
 ***
 
-#### ['QuantCrit' Critical Race Theory Meets Quantitiave Research](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf)
-This new extention of Critical Race Theory (CRT) has a focus on education and views data collection and data analysis as socially constructed. It posits that statistics and data use exist within the larger racialized context that makes up the norm in America’s educational systems. However, QuantCrit highlights the value of quantitative methods and statistics use in advancing educational justice and proposes several empirical approaches in engaging in quantitative analyses under a critical lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf))
+#### ['QuantCrit' Critical Race Theory Meets Quantitative Research](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf)
+This new extension of Critical Race Theory (CRT) has a focus on education and views data collection and data analysis as socially constructed. It posits that statistics and data use exist within the larger racialized context that makes up the norm in America’s educational systems. However, QuantCrit highlights the value of quantitative methods and statistics use in advancing educational justice and proposes several empirical approaches in engaging in quantitative analyses under a critical lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf))
 
 ***
 
